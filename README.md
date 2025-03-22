@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **aaryanchhabra70@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/15SJwKblQxkWSQE02gSawJzlpVuLxoqmM/view?usp=drivesdk](https://drive.google.com/file/d/15SJwKblQxkWSQE02gSawJzlpVuLxoqmM/view?usp=drivesdk)
+- 📄 Know about my experiences [https://aaryanchhabra-resume.tiiny.site](https://aaryanchhabra-resume.tiiny.site)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
