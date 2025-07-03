@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aaryan Chhabra</h1>
 <h3 align="center">A passionate Computer Science Student from India</h3>
 
-- 🌱 I’m currently learning **Ethical Hacking**
+- 🌱 I’m currently interested in **Artificial Intelligence in Ethical Hacking**
 
 - 📫 How to reach me **aaryanchhabra70@gmail.com**
 
