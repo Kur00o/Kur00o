@@ -1,19 +1,37 @@
-<h1 align="center">Hi 👋, I'm Aaryan Chhabra</h1>
-<h3 align="center">A passionate Computer Science Student from India</h3>
+# Hey, I'm Aaryan 👋
 
-- 🌱 I’m currently interested in **Artificial Intelligence in Ethical Hacking**
+CS undergrad at MIT-WPU trying to build things at the intersection of **AI and cybersecurity** — autonomous agents, open-source tools, and systems that do something real.
 
-- 📫 How to reach me **aaryanchhabra70@gmail.com**
+Currently: obsessed with agentic AI. Previously: won stuff with a cotton disease detector and a Docker GUI.
 
-- 📄 Know about my experiences [Aaryan Chhabra-Resume](https://drive.google.com/file/d/1KQ_X8oqmyTJkjHEhkNpnuOseKIKtl0cW/view?usp=sharing)
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://x.com/AaryanChhabra05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/aaryanchhabra05?t=2ddwymq3wxmrj14wzzvrlg&s=09" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/aaryan-chhabra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aaryan-chhabra/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/aaryan._.chhabra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/aaryan._.chhabra?igsh=mxdnyzjyohoybmhzeg==" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/aaryan_chhabra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/aaryan_chhabra/" height="30" width="40" /></a>
-</p>
+### 🛠 What I build with
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+![Python](https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=3b82f6)
+![C++](https://img.shields.io/badge/C++-111827?style=flat-square&logo=cplusplus&logoColor=3b82f6)
+![FastAPI](https://img.shields.io/badge/FastAPI-111827?style=flat-square&logo=fastapi&logoColor=3b82f6)
+![Docker](https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker&logoColor=3b82f6)
+![Linux](https://img.shields.io/badge/Linux-111827?style=flat-square&logo=linux&logoColor=3b82f6)
+![Ollama](https://img.shields.io/badge/Ollama-111827?style=flat-square&logo=ollama&logoColor=3b82f6)
+![Metasploit](https://img.shields.io/badge/Metasploit-111827?style=flat-square&logo=metasploit&logoColor=3b82f6)
+
+---
+
+### 🚀 notable projects
+
+**[Kira](https://github.com/Kur00o/Kira)** — Autonomous pentesting agent. Observe → think → act loop driven by a local LLM (Gemma 3 4B). Runs full recon, enumeration, exploitation, and report generation on its own. 14-tool dispatch, thread-safe state, pymetasploit3 integration.
+
+`🏆 Winner — CSI MIT-WPU Fussion Agentic AI Sprint 2026`
+
+**[ContainerCraft](https://github.com/Kur00o/Container-Craft)** — Visual Docker Compose builder. Drag-and-drop frontend (React + React Flow) with a FastAPI backend, 16-rule Pydantic validation, and 8 pre-built service templates. 70%+ test coverage, MIT licensed.
+
+`🏆 FOSS Hack 2026`
+
+
+---
+
+### 📬 reach me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111827?style=flat-square&logo=linkedin&logoColor=3b82f6)](https://linkedin.com/in/aaryan-chhabra-0a3093306)
+[![Email](https://img.shields.io/badge/Email-111827?style=flat-square&logo=gmail&logoColor=3b82f6)](mailto:aaryanchhabra70@gmail.com)
