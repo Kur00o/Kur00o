@@ -26,7 +26,7 @@ Currently: obsessed with agentic AI. Previously: won stuff with a cotton disease
 
 **[ContainerCraft](https://github.com/Kur00o/Container-Craft)** — Visual Docker Compose builder. Drag-and-drop frontend (React + React Flow) with a FastAPI backend, 16-rule Pydantic validation, and 8 pre-built service templates. 70%+ test coverage, MIT licensed.
 
-`🏆 FOSS Hack 2026`
+` FOSS Hack 2026`
 
 
 ---
